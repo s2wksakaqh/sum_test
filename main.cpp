@@ -7,5 +7,5 @@ int main()
 
 	scanf("%d", &n);
 	s = sum(n);
-	printf("sum = %d\n" s);
+	printf("sum = %d\n", s);
 }
